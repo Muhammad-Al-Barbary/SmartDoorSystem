@@ -1,5 +1,5 @@
 # SmartDoorSystem
-Door Lock System\ 
+Door Lock System
 Embedded System Project using using 2 atmega16 microcontrollers\
 by implementing the following drivers\
 1.GPIO\
