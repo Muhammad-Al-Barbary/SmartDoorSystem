@@ -2,7 +2,7 @@
 Door Lock System 
 Embedded System Project using using 2 atmega16 microcontrollers 
 by implementing the following drivers 
-1.GPIO
+1.GPIO \n
 2.LCD
 3.KEYPAD
 4.DCMotor
