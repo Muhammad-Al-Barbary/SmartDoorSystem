@@ -8,6 +8,7 @@ by implementing the following drivers\
 4.DCMotor\
 5.UART\
 6.EEPROM\
+7.ICU\
 And Simulated using Proteus:
 
 
